@@ -8,4 +8,4 @@ pass-search.py <password_to_search_for> <directory_to_be_searched>
 
 
 ## Licence
- 
+[GNU GPLv3] https://choosealicense.com/licenses/gpl-3.0/
