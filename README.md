@@ -7,5 +7,9 @@ Pass-search is a Python script which is created to search for a particular strin
 pass-search.py <password_to_search_for> <directory_to_be_searched>
 
 
+## Notice
+Functionality of the current version is similar to 'grep'.
+Work on progress.
+
 ## Licence
 [GNU GPLv3] https://choosealicense.com/licenses/gpl-3.0/
